@@ -81,4 +81,4 @@ Python, pandas, numpy, scipy, matplotlib, seaborn, statsmodels, arch
 **Bhawini Singh**
 MS Quantitative Finance, Northeastern University (2026)
 
-> **Full analysis write-up:** See [ANALYSIS.md](ANALYSIS.md) for the complete methodology, economic interpretation, and investment rationale behind each section.
+**Full analysis write-up:** See [Analysis.md](Analysis.md) for the complete methodology, economic interpretation, and investment rationale behind each portfolio.
